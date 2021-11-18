@@ -85,3 +85,13 @@ p {
   padding: 10px;
   padding-bottom: 100px;
 }
+
+.features h3 {
+  padding: 30px;
+  font-size: 35px;
+}
+
+.features {
+  background-color: #f8a16b;
+  padding-bottom: 60px;
+}
