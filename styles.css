@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: "Patrick Hand", cursive;
+}
+.intro {
+  padding: 10px;
+  background-image: url(https://www.worldatlas.com/r/w1200/upload/d6/bc/85/shutterstock-182041511.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.intro h1 {
+  font-family: "Patrick Hand", cursive;
+  font-size: 100px;
+  font-weight: bold;
+  margin-top: auto;
+}
+.intro img {
+  border-radius: 50%;
+  width: 35%;
+  padding-bottom: 50px;
+}
+.app_details {
+  /* background-image: url(intro_pg.png); */
+  background-color: #b65411;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.app_details h3 {
+  padding: 30px;
+  font-size: 35px;
+}
+.app_details p {
+  padding: 10px;
+  font-size: 20px;
+}
+
+h3,
+p {
+  font-family: "Patrick Hand", cursive;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.logo_app_details {
+  width: 20%;
+  border-radius: 50%;
+  padding-top: 50px;
+}
+.where_quakes_occur img {
+  width: 50%;
+  border-radius: 20px;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+
+.where_quakes_occur p {
+  text-align: left;
+}
+.where_quakes_occur {
+  display: contents;
+}
+
+.future_improvements {
+  background: #f09756;
+}
+.future_improvements h3 {
+  padding: 30px;
+  font-size: 35px;
+}
+.future_improvements p {
+  padding: 10px;
+  font-size: 20px;
+}
+.future_improvements {
+  padding: 10px;
+  padding-bottom: 100px;
+}
